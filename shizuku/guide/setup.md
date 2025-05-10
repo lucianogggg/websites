@@ -90,12 +90,7 @@ To use `adb` you first need to turn on USB debugging on your device, usually by 
    ```
 
 ::: tip
-The steps for enabling Developer Options on different devices may vary, please search for yourself.
-:::
-
-#### Start Shizuku
-
-Copy the command and paste into the terminal. If there is no problem, you will see that Shizuku has started successfully in Shizuku app.
+The steps for enabling Developer Options on different devices may vary, please se
 
 
 ::: details Command for Shizuku v11.2.0+
